@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:movie_app/config/route_name.dart';
+import 'package:movie_app/config/routes/route_name.dart';
 
-import '../views/barrel_view.dart';
+import '../../views/barrel_view.dart';
 
 
 class Routes {
